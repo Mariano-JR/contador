@@ -1,2 +1,2 @@
 # Contador
-Contador feito em JavaScript
+Contador de números feito em JavaScript
